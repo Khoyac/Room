@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RoomFunciona</string>
+    <string name="nombre">Nombre</string>
+    <string name="email">e-mail</string>
+    <string name="guardar">Guardar</string>
+    <string name="consultar">Consultar</string>
+    <string name="irABorrar">Ir a Borrar</string>
+    <string name="irAModificar">Ir a modificar</string>
+    <string name="consulta">(Aquí aparecerán los datos al consultar)</string>
+</resources>
